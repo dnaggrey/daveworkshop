@@ -1,0 +1,3 @@
+org\openmrs\module\daveworkshop\web\controller\AggreyWorkshopModuleController.class
+org\openmrs\module\daveworkshop\extension\html\AdminList.class
+org\openmrs\module\daveworkshop\fragment\controller\UsersFragmentController.class

@@ -1,0 +1,6 @@
+org\openmrs\module\daveworkshop\AggreyWorkshopModuleActivator.class
+org\openmrs\module\daveworkshop\api\impl\AggreyWorkshopModuleServiceImpl.class
+org\openmrs\module\daveworkshop\api\dao\AggreyWorkshopModuleDao.class
+org\openmrs\module\daveworkshop\Item.class
+org\openmrs\module\daveworkshop\AggreyWorkshopModuleConfig.class
+org\openmrs\module\daveworkshop\api\AggreyWorkshopModuleService.class
